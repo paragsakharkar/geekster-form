@@ -1,0 +1,15 @@
+input,select,textarea{
+    display: block;
+    margin:4px auto;
+    
+}
+body{
+    text-align: center;
+    background: green;
+}
+.inline{
+    display: inline;
+}
+h1,h2 {
+    color:white;
+}
